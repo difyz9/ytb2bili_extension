@@ -28,51 +28,7 @@
 
 ## 🚀 快速开始
 
-### 安装依赖
-
-```bash
-# 使用 yarn（推荐）
-yarn install
-
-# 或使用 npm
-npm install
-```
-
-### 开发模式
-
-```bash
-# Chrome/Edge 开发版本
-yarn dev
-
-# Firefox 开发版本
-yarn dev:firefox
-```
-
-开发服务器将在 `http://localhost:3000` 启动，扩展构建文件在 `dist/` 目录。
-
-### 生产构建
-
-```bash
-# Chrome/Edge 生产版本
-yarn build
-
-# Firefox 生产版本
-yarn build:firefox
-```
-
-### 打包发布
-
-```bash
-# 打包为 zip 文件
-yarn zip
-
-# Firefox 版本
-yarn zip:firefox
-```
-
-## 📦 安装到浏览器
-
-### Chrome / Edge
+## 📦 安装到浏览器 Chrome / Edge
 
 1. 打开浏览器扩展管理页面：
    - Chrome: `chrome://extensions/`

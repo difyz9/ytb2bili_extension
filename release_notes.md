@@ -1,4 +1,4 @@
-## 🚀 Bili UP Extension v1.0.4
+## 🚀 Bili UP Extension 
 
 ### ✨ 功能特性
 - 🎬 支持 YouTube 和 Bilibili 视频信息保存
@@ -27,5 +27,4 @@
 5. 选择下载的 zip 文件
 
 ### 📋 更新日志
-- 版本号: v1.0.4
 - 构建时间: 2025-11-35T17:44:50+08:00
